@@ -1,0 +1,29 @@
+{
+    "files.exclude": {
+        "**/*.pyc": true,
+        "**/*.pyo": true,
+        "**/__pycache__": true,
+        "**/.DS_Store": true,
+        "**/*.ipynb_checkpoints": true,
+        "**/.git": false,
+        "**/%OUTDIR%/": true,
+        "**/*.aux": true,
+        "**/*.out": true,
+        "**/*.bbl": true,
+        "**/*.bcf": true,
+        "**/*.blg": true,
+        "**/*.fdb_latexmk": true,
+        "**/*.fls": true,
+        "**/*.log": true,
+        "**/*.lof": true,
+        "**/*.lot": true,
+        "**/*.nav": true,
+        "**/*.pdf": false,
+        "**/*.snm": true,
+        "**/*.synctex": false,
+        "**/*.synctex.gz": true,
+        "**/*.toc": true,
+        "**/*.vrb": true,
+        "**/main.run.xml": true
+    }
+}
